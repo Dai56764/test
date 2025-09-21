@@ -1,1 +1,1 @@
-curl -H 'X-Gismeteo-Token: 56b30cb255.3443075' 'https://api.gismeteo.net/v2/weather/current/4368/'
+<a class="nuipogoda-iframe-informer" data-nuipogoda="informer2" href="https://nuipogoda.ru" style="width:284px;height:326px;display:block;box-shadow: 0 0 5px #999;">НУ И ПОГОДА</a><script>(function(a,f,g){var e=a.createElement(f);e.async=1;e.src=g; a=a.getElementsByTagName(f)[0];a.parentNode.insertBefore(e,a)})(document,'script','//nuipogoda.ru/informer/nuipogoda.js');</script>
